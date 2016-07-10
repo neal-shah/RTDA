@@ -1,0 +1,10 @@
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\MyPortfolioApp\MyPortfolioApp.Tests\bin\Debug\MyPortfolioApp.Tests.dll
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\MyPortfolioApp\MyPortfolioApp.Tests\bin\Debug\MyPortfolioApp.Tests.pdb
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\MyPortfolioApp\MyPortfolioApp.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\MyPortfolioApp\MyPortfolioApp.Tests\bin\Debug\MyPortfolioApp.exe
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\MyPortfolioApp\MyPortfolioApp.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\MyPortfolioApp\MyPortfolioApp.Tests\bin\Debug\MyPortfolioApp.pdb
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\MyPortfolioApp\MyPortfolioApp.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\MyPortfolioApp\MyPortfolioApp.Tests\obj\Debug\MyPortfolioApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\MyPortfolioApp\MyPortfolioApp.Tests\obj\Debug\MyPortfolioApp.Tests.dll
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\MyPortfolioApp\MyPortfolioApp.Tests\obj\Debug\MyPortfolioApp.Tests.pdb

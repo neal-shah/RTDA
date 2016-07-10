@@ -1,0 +1,21 @@
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\MyPortfolioApp\MyPortfolioApp\obj\Debug\MainWindow.g.cs
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\MyPortfolioApp\MyPortfolioApp\obj\Debug\App.g.cs
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\MyPortfolioApp\MyPortfolioApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\MyPortfolioApp\MyPortfolioApp\obj\Debug\RealtimeInstrumentDataApp_MarkupCompile.cache
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\MyPortfolioApp\MyPortfolioApp\obj\Debug\RealtimeInstrumentDataApp_MarkupCompile.lref
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\bin\Debug\RealtimeInstrumentDataApp.exe.config
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Debug\RealtimeInstrumentDataApp.csprojResolveAssemblyReference.cache
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Debug\MainWindow.g.cs
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Debug\App.g.cs
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Debug\RealtimeInstrumentDataApp_MarkupCompile.cache
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Debug\RealtimeInstrumentDataApp_MarkupCompile.lref
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\bin\Debug\RealtimeInstrumentDataApp.exe
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\bin\Debug\RealtimeInstrumentDataApp.pdb
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Debug\MainWindow.baml
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Debug\RealtimeInstrumentDataApp.g.resources
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Debug\RealtimeInstrumentDataApp.Properties.Resources.resources
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Debug\RealtimeInstrumentDataApp.csproj.GenerateResource.Cache
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Debug\RealtimeInstrumentDataApp.exe
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Debug\RealtimeInstrumentDataApp.pdb
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\bin\Debug\Data\Sample Data.txt

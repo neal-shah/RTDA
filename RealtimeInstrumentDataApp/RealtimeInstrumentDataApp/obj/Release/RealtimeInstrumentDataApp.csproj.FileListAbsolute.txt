@@ -1,0 +1,15 @@
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\bin\Release\RealtimeInstrumentDataApp.exe.config
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\bin\Release\Data\Sample Data.txt
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\bin\Release\RealtimeInstrumentDataApp.exe
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\bin\Release\RealtimeInstrumentDataApp.pdb
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Release\MainWindow.g.cs
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Release\App.g.cs
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Release\RealtimeInstrumentDataApp_MarkupCompile.cache
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Release\RealtimeInstrumentDataApp_MarkupCompile.lref
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Release\MainWindow.baml
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Release\RealtimeInstrumentDataApp.g.resources
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Release\RealtimeInstrumentDataApp.Properties.Resources.resources
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Release\RealtimeInstrumentDataApp.csproj.GenerateResource.Cache
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Release\RealtimeInstrumentDataApp.exe
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp\obj\Release\RealtimeInstrumentDataApp.pdb

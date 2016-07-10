@@ -1,0 +1,11 @@
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp.Tests\bin\Release\Data\Sample Data.txt
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp.Tests\bin\Release\MyPortfolioApp.Tests.dll
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp.Tests\bin\Release\MyPortfolioApp.Tests.pdb
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp.Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp.Tests\bin\Release\nunit.framework.dll
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp.Tests\bin\Release\RealtimeInstrumentDataApp.exe
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp.Tests\bin\Release\RealtimeInstrumentDataApp.pdb
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp.Tests\bin\Release\nunit.framework.xml
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp.Tests\obj\Release\RealtimeInstrumentDataApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp.Tests\obj\Release\MyPortfolioApp.Tests.dll
+C:\Users\Neal\Documents\Visual Studio 2015\Projects\RealtimeInstrumentDataApp\RealtimeInstrumentDataApp.Tests\obj\Release\MyPortfolioApp.Tests.pdb

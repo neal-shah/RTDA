@@ -1,0 +1,81 @@
+﻿<Window
+
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+
+        xmlns:conv="clr-namespace:RealtimeInstrumentDataApp"
+
+        x:Class="RealtimeInstrumentDataApp.MainWindow"
+
+        mc:Ignorable="d"
+
+        Title="Instrument Data" Height="300" Width="525">
+
+    <Window.Resources>
+
+        <conv:StateToBrushConverter x:Key="StateToBrushConverter"/>
+
+    </Window.Resources>
+
+    <Grid>
+
+        <DataGrid x:Name="dataGrid"
+
+                     AlternatingRowBackground="Azure"
+
+                     AlternationCount="2"
+
+                     AutoGenerateColumns="False"
+
+            DataContext="{Binding RelativeSource={RelativeSource AncestorType=Window}}"
+
+            ItemsSource="{Binding Instruments}"
+
+            HorizontalAlignment="Stretch"
+
+            HorizontalContentAlignment="Stretch"
+
+            ColumnWidth="*"
+
+            Background="DarkGray" FontSize="16">
+
+            <DataGrid.Effect>
+
+                <DropShadowEffect/>
+
+            </DataGrid.Effect>
+
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Header="Instrument Name" Binding="{Binding Name, IsAsync=True}"/>
+
+                <DataGridTextColumn Header="Current Price" Binding="{Binding LastPrice, IsAsync=True}">
+
+                    <DataGridTextColumn.ElementStyle>
+
+                        <Style TargetType="{x:Type TextBlock}">
+
+                            <Setter Property="Background"
+
+                                    Value="{Binding Path=State, Converter={StaticResource StateToBrushConverter}}"/>
+
+                        </Style>
+
+                    </DataGridTextColumn.ElementStyle>
+
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Header="Average (Last 5 Prices)" Binding="{Binding AverageOver5Prices, IsAsync=True}"/>
+
+            </DataGrid.Columns>
+
+        </DataGrid>
+
+    </Grid>
+
+</Window>
